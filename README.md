@@ -67,6 +67,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾快剪黑體 Swei Shear Sans
+https://max-everyday.com/2020/09/swei-shear-sans/
 * 獅尾福音黑體 Swei Gospel Sans
 https://max-everyday.com/2020/09/swei-gospel-sans/
 * 獅尾D滷腿黑體 Swei Del Luna Leg
